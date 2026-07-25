@@ -1,6 +1,6 @@
 # ✈️ Flight Booking App
 
-A full-stack flight booking web application that lets users search, compare, and book flights through a clean, responsive interface — built with **React** and powered by **Skyscanner's Backpack design system**, backed by a custom **Node.js/Express REST API**.
+A full-stack flight booking web application that lets users search and book flights through a clean, responsive interface — built with **React** and powered by **Skyscanner's Backpack design system**, backed by a custom **Node.js/Express REST API**.
 
 **🔗 Live Demo:** [Add your deployed link here]
 **📦 Repo:** [Flight_Booking_App](https://github.com/Monica-Web88/Flight_Booking_App)
