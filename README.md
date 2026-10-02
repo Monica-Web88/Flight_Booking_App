@@ -104,11 +104,6 @@ my-app/
 
 ---
 
-## 📬 Contact
-
-**[Your Name]**
-[Your Email] · [LinkedIn] · [Portfolio]
-
 ---
 
 *This project was originally bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and [backpack-react-scripts](https://github.com/Skyscanner/backpack-react-scripts).*
